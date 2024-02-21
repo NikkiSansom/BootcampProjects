@@ -8,3 +8,6 @@ This repository contains some of the projects I have created through by Hyperion
 
 **3) # Letter Frequency.py:**
   A quick little practice for working out the letter frequency for a phrase or sentence
+
+**4) insurance_regression**
+  Basic simple linear regression
